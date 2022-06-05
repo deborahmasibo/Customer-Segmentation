@@ -45,7 +45,7 @@ Customer segmentation is the process of dividing customers into groups, based on
 
 The Kira Plastinina company, is a Russian fashion brand, that previously belonged to the Russian fashion designer, Kira Plastinina. The brand was sold through a  through a now defunct chain of eponymous retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines and Armenia.
 
-The brand's sales and marketing team requested for an in depth analysis on their customer groups. They provided data that had been collected over the past year to be used in the analysis. The main aim of the project was to cater to the clients request, as well as develop a clutering model, necessary for grouping of various customers, in order to derive usefull insights to be used to improve the brand's marketing strategy, to boost sales.
+The brand's sales and marketing team requested for an in depth analysis on their customer groups. They provided data that had been collected over the past year to be used in the analysis. The main aim of the project was to cater to the clients request, as well as develop a clustering model, necessary for grouping of various customers, in order to derive useful insights to be used to improve the brand's marketing strategy, to boost sales.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
