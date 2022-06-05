@@ -89,7 +89,7 @@ The final project was published in [RPubs]().
 <!-- TARGETED ADVERTISING PROJECT UPDATE -->
 ## Targeted Advertising Project Update
 
-A classification model has been trained and optimized on the data provided by the client, follow this [link]() to access the updated RPubs publication, and this [link]() to access the full project description.
+A classification model has been trained and optimized on the data provided by the client, follow this [link](https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP) to access the updated RPubs publication, and this [link]() to access the full project description.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
