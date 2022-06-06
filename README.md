@@ -82,14 +82,14 @@ The dataset avialed by the client can be downloaded from this [link](http://bit.
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
 
-The final project was published in [RPubs]().
+The final project was published in [RPubs](http://rpubs.com/deborah_masibo/customer_segmentation).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- TARGETED ADVERTISING PROJECT UPDATE -->
 ## Targeted Advertising Project Update
 
-A classification model has been trained and optimized on the data provided by the client, follow this [link](https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP) to access the updated RPubs publication, and this [link]() to access the full project description.
+A classification model has been trained and optimized on the data provided by the client, follow this [link](https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP) to access the updated RPubs publication, and this [link](http://rpubs.com/deborah_masibo/targeted_advertising_rf) to access the full project description.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
