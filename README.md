@@ -62,9 +62,10 @@ The brand's sales and marketing team requested for an in depth analysis on their
 8. Multivariate Analysis
 9. Modelling
 
-  a) KMeans Clustering
+  > a) KMeans Clustering
   
-  b) Hierarchical Clustering
+  > b) Hierarchical Clustering
+  
 10. Implementing the solution
 11. Challenging the solution
 12. Conclusion
